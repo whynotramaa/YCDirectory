@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+# YCDirectory
+🚀 YC Directory: Uncover Y Combinator's innovative startups. 🔍 Search, 🤝 connect, and 🌐 network with founders across industries. Your gateway to the YC ecosystem.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
